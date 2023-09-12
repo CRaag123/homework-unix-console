@@ -1,0 +1,445 @@
+
+misha@DESKTOP-E02FQHM MINGW64 ~ (master)
+$ ды
+bash: ды: command not found
+
+misha@DESKTOP-E02FQHM MINGW64 ~ (master)
+$ ls
+'3D Objects'/             ntuser.dat.LOG1
+ AppData/                 ntuser.dat.LOG2
+'Application Data'@       NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TM.blf
+ Contacts/                NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000001.regtrans-ms
+ Cookies@                 NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000002.regtrans-ms
+ Desktop/                 ntuser.ini
+ Documents/               OneDrive/
+ Downloads/               PrintHood@
+ Favorites/               Recent@
+ go/                     'Saved Games'/
+ HomeWork/                Searches/
+ IntelGraphicsProfiles/   SendTo@
+ Links/                   Videos/
+'Local Settings'@        'главное меню'@
+ Music/                  'Мои документы'@
+ NetHood@                 Шаблоны@
+ NTUSER.DAT
+
+misha@DESKTOP-E02FQHM MINGW64 ~ (master)
+$ cd OneDrive/
+
+misha@DESKTOP-E02FQHM MINGW64 ~/OneDrive (master)
+$ ls
+ desktop.ini        Документ.docx   Изображения/       'Начало работы с OneDrive.pdf'
+'Документ 1.docx'   Документы/     'Личный сейф.lnk'*  'Рабочий стол'/
+
+misha@DESKTOP-E02FQHM MINGW64 ~/OneDrive (master)
+$ cd "Рабочий стол"/
+
+misha@DESKTOP-E02FQHM MINGW64 ~/OneDrive/Рабочий стол (master)
+$ ls
+ desktop.ini    go-lessons/   main.go                Telegram.lnk*              Yandex.lnk*  'Новая папка'/
+ Discord.lnk*   HomeWork/    'Microsoft Edge.lnk'*  'Visual Studio Code.lnk'*   ДЗ/           ФИО.docx
+
+misha@DESKTOP-E02FQHM MINGW64 ~/OneDrive/Рабочий стол (master)
+$ cd go-lessons/
+
+misha@DESKTOP-E02FQHM MINGW64 ~/OneDrive/Рабочий стол/go-lessons (master)
+$ ls
+lesson1/
+
+misha@DESKTOP-E02FQHM MINGW64 ~/OneDrive/Рабочий стол/go-lessons (master)
+$ cd lesson1/
+
+misha@DESKTOP-E02FQHM MINGW64 ~/OneDrive/Рабочий стол/go-lessons/lesson1 (main)
+$ ls
+go  homework3/  lesson2Git/  main.go  MyPreviousHomework/
+
+misha@DESKTOP-E02FQHM MINGW64 ~/OneDrive/Рабочий стол/go-lessons/lesson1 (main)
+$ cd homework3/
+
+misha@DESKTOP-E02FQHM MINGW64 ~/OneDrive/Рабочий стол/go-lessons/lesson1/homework3 (main)
+$ ls
+A/
+
+misha@DESKTOP-E02FQHM MINGW64 ~/OneDrive/Рабочий стол/go-lessons/lesson1/homework3 (main)
+$ cd A/
+
+misha@DESKTOP-E02FQHM MINGW64 ~/OneDrive/Рабочий стол/go-lessons/lesson1/homework3/A (main)
+$ ls
+B/  C/  D/
+
+misha@DESKTOP-E02FQHM MINGW64 ~/OneDrive/Рабочий стол/go-lessons/lesson1/homework3/A (main)
+$ cd C/
+
+misha@DESKTOP-E02FQHM MINGW64 ~/OneDrive/Рабочий стол/go-lessons/lesson1/homework3/A/C (main)
+$ ls
+C1/
+
+misha@DESKTOP-E02FQHM MINGW64 ~/OneDrive/Рабочий стол/go-lessons/lesson1/homework3/A/C (main)
+$ cd C1/
+
+misha@DESKTOP-E02FQHM MINGW64 ~/OneDrive/Рабочий стол/go-lessons/lesson1/homework3/A/C/C1 (main)
+$ cd C2/
+
+misha@DESKTOP-E02FQHM MINGW64 ~/OneDrive/Рабочий стол/go-lessons/lesson1/homework3/A/C/C1/C2 (main)
+$ ls
+C3/  file2.txt
+
+misha@DESKTOP-E02FQHM MINGW64 ~/OneDrive/Рабочий стол/go-lessons/lesson1/homework3/A/C/C1/C2 (main)
+$ cd C3/
+
+misha@DESKTOP-E02FQHM MINGW64 ~/OneDrive/Рабочий стол/go-lessons/lesson1/homework3/A/C/C1/C2/C3 (main)
+$ ls
+file3.txt
+
+misha@DESKTOP-E02FQHM MINGW64 ~/OneDrive/Рабочий стол/go-lessons/lesson1/homework3/A/C/C1/C2/C3 (main)
+$ cp file3.txt ~/OneDrive/Рабочий стол/go-lessons/lesson1/homework3/A/C/C1
+cp: target 'стол/go-lessons/lesson1/homework3/A/C/C1' is not a directory
+
+misha@DESKTOP-E02FQHM MINGW64 ~/OneDrive/Рабочий стол/go-lessons/lesson1/homework3/A/C/C1/C2/C3 (main)
+$ cp file3.txt C:\Users\misha\OneDrive\Рабочий стол\go-lessons\lesson1\homework3\A\C\C1
+cp: target 'столgo-lessonslesson1homework3ACC1' is not a directory
+
+misha@DESKTOP-E02FQHM MINGW64 ~/OneDrive/Рабочий стол/go-lessons/lesson1/homework3/A/C/C1/C2/C3 (main)
+$ ды
+bash: ды: command not found
+
+misha@DESKTOP-E02FQHM MINGW64 ~/OneDrive/Рабочий стол/go-lessons/lesson1/homework3/A/C/C1/C2/C3 (main)
+$ ls
+file3.txt
+
+misha@DESKTOP-E02FQHM MINGW64 ~/OneDrive/Рабочий стол/go-lessons/lesson1/homework3/A/C/C1/C2/C3 (main)
+$ cp file3.txt C:/Users/misha/OneDrive/Рабочий стол/go-lessons/lesson1/homework3/A/C/C1
+cp: target 'стол/go-lessons/lesson1/homework3/A/C/C1' is not a directory
+
+misha@DESKTOP-E02FQHM MINGW64 ~/OneDrive/Рабочий стол/go-lessons/lesson1/homework3/A/C/C1/C2/C3 (main)
+$ cp file3.txt C:/Users/misha/OneDrive/Рабочий стол/go-lessons/lesson1/homework3/A
+cp: target 'стол/go-lessons/lesson1/homework3/A' is not a directory
+
+misha@DESKTOP-E02FQHM MINGW64 ~/OneDrive/Рабочий стол/go-lessons/lesson1/homework3/A/C/C1/C2/C3 (main)
+$ cp file3.txt ~/OneDrive/Рабочий стол/go-lessons/lesson1/homework3/A
+cp: target 'стол/go-lessons/lesson1/homework3/A' is not a directory
+
+misha@DESKTOP-E02FQHM MINGW64 ~/OneDrive/Рабочий стол/go-lessons/lesson1/homework3/A/C/C1/C2/C3 (main)
+$ cp file3.txt C:/Users/misha/OneDrive"Рабочий стол"/go-lessons/lesson1/homework3/A/C/C1
+cp: cannot create regular file 'C:/Users/misha/OneDriveРабочий стол/go-lessons/lesson1/homework3/A/C/C1': No such file or directory
+
+misha@DESKTOP-E02FQHM MINGW64 ~/OneDrive/Рабочий стол/go-lessons/lesson1/homework3/A/C/C1/C2/C3 (main)
+$ cp file3.txt C:/Users/misha/OneDrive/"Рабочий стол"/go-lessons/lesson1/homework3/A/C/C1
+
+misha@DESKTOP-E02FQHM MINGW64 ~/OneDrive/Рабочий стол/go-lessons/lesson1/homework3/A/C/C1/C2/C3 (main)
+$ cd ..
+
+misha@DESKTOP-E02FQHM MINGW64 ~/OneDrive/Рабочий стол/go-lessons/lesson1/homework3/A/C/C1/C2 (main)
+$ ls
+C3/  file2.txt
+
+misha@DESKTOP-E02FQHM MINGW64 ~/OneDrive/Рабочий стол/go-lessons/lesson1/homework3/A/C/C1/C2 (main)
+$ cp file2.txt C:/Users/misha/OneDrive/"Рабочий стол"/go-lessons/lesson1/homework3/A/B
+
+misha@DESKTOP-E02FQHM MINGW64 ~/OneDrive/Рабочий стол/go-lessons/lesson1/homework3/A/C/C1/C2 (main)
+$ cp C1/C2/C3 C:/Users/misha/OneDrive/"Рабочий стол"/go-lessons/lesson1/homework3/A/D
+cp: cannot stat 'C1/C2/C3': No such file or directory
+
+misha@DESKTOP-E02FQHM MINGW64 ~/OneDrive/Рабочий стол/go-lessons/lesson1/homework3/A/C/C1/C2 (main)
+$ cd ..
+
+misha@DESKTOP-E02FQHM MINGW64 ~/OneDrive/Рабочий стол/go-lessons/lesson1/homework3/A/C/C1 (main)
+$ cd ..
+
+misha@DESKTOP-E02FQHM MINGW64 ~/OneDrive/Рабочий стол/go-lessons/lesson1/homework3/A/C (main)
+$ ls
+C1/
+
+misha@DESKTOP-E02FQHM MINGW64 ~/OneDrive/Рабочий стол/go-lessons/lesson1/homework3/A/C (main)
+$ cp C1 C:/Users/misha/OneDrive/"Рабочий стол"/go-lessons/lesson1/homework3/A/D
+cp: -r not specified; omitting directory 'C1'
+
+misha@DESKTOP-E02FQHM MINGW64 ~/OneDrive/Рабочий стол/go-lessons/lesson1/homework3/A/C (main)
+$ cp C1/ C:/Users/misha/OneDrive/"Рабочий стол"/go-lessons/lesson1/homework3/A/D
+cp: -r not specified; omitting directory 'C1/'
+
+misha@DESKTOP-E02FQHM MINGW64 ~/OneDrive/Рабочий стол/go-lessons/lesson1/homework3/A/C (main)
+$ cp -r C1 C:/Users/misha/OneDrive/"Рабочий стол"/go-lessons/lesson1/homework3/A/D
+
+misha@DESKTOP-E02FQHM MINGW64 ~/OneDrive/Рабочий стол/go-lessons/lesson1/homework3/A/C (main)
+$ ls
+C1/
+
+misha@DESKTOP-E02FQHM MINGW64 ~/OneDrive/Рабочий стол/go-lessons/lesson1/homework3/A/C (main)
+$ cd ..
+
+misha@DESKTOP-E02FQHM MINGW64 ~/OneDrive/Рабочий стол/go-lessons/lesson1/homework3/A (main)
+$ ls
+B/  C/  D/
+
+misha@DESKTOP-E02FQHM MINGW64 ~/OneDrive/Рабочий стол/go-lessons/lesson1/homework3/A (main)
+$ cd B/
+
+misha@DESKTOP-E02FQHM MINGW64 ~/OneDrive/Рабочий стол/go-lessons/lesson1/homework3/A/B (main)
+$ mkdir complete
+
+misha@DESKTOP-E02FQHM MINGW64 ~/OneDrive/Рабочий стол/go-lessons/lesson1/homework3/A/B (main)
+$ ls
+complete/  file2.txt
+
+misha@DESKTOP-E02FQHM MINGW64 ~/OneDrive/Рабочий стол/go-lessons/lesson1/homework3/A/B (main)
+$ cd complete/
+
+misha@DESKTOP-E02FQHM MINGW64 ~/OneDrive/Рабочий стол/go-lessons/lesson1/homework3/A/B/complete (main)
+$ mkdir complete.txt
+
+misha@DESKTOP-E02FQHM MINGW64 ~/OneDrive/Рабочий стол/go-lessons/lesson1/homework3/A/B/complete (main)
+$ ls
+complete.txt/
+
+misha@DESKTOP-E02FQHM MINGW64 ~/OneDrive/Рабочий стол/go-lessons/lesson1/homework3/A/B/complete (main)
+$ git reset
+
+misha@DESKTOP-E02FQHM MINGW64 ~/OneDrive/Рабочий стол/go-lessons/lesson1/homework3/A/B/complete (main)
+$ ls
+complete.txt/
+
+misha@DESKTOP-E02FQHM MINGW64 ~/OneDrive/Рабочий стол/go-lessons/lesson1/homework3/A/B/complete (main)
+$ git reset
+
+misha@DESKTOP-E02FQHM MINGW64 ~/OneDrive/Рабочий стол/go-lessons/lesson1/homework3/A/B/complete (main)
+$ git reset
+
+misha@DESKTOP-E02FQHM MINGW64 ~/OneDrive/Рабочий стол/go-lessons/lesson1/homework3/A/B/complete (main)
+$ ls
+complete.txt/
+
+misha@DESKTOP-E02FQHM MINGW64 ~/OneDrive/Рабочий стол/go-lessons/lesson1/homework3/A/B/complete (main)
+$ delet complete.txt/
+bash: delet: command not found
+
+misha@DESKTOP-E02FQHM MINGW64 ~/OneDrive/Рабочий стол/go-lessons/lesson1/homework3/A/B/complete (main)
+$ ls
+
+misha@DESKTOP-E02FQHM MINGW64 ~/OneDrive/Рабочий стол/go-lessons/lesson1/homework3/A/B/complete (main)
+$ nano complete.txt
+
+misha@DESKTOP-E02FQHM MINGW64 ~/OneDrive/Рабочий стол/go-lessons/lesson1/homework3/A/B/complete (main)
+$
+misha@DESKTOP-E02FQHM MINGW64 ~ (master)
+$ ды
+bash: ды: command not found
+
+misha@DESKTOP-E02FQHM MINGW64 ~ (master)
+$ ls
+'3D Objects'/             ntuser.dat.LOG1
+ AppData/                 ntuser.dat.LOG2
+'Application Data'@       NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TM.blf
+ Contacts/                NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000001.regtrans-ms
+ Cookies@                 NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000002.regtrans-ms
+ Desktop/                 ntuser.ini
+ Documents/               OneDrive/
+ Downloads/               PrintHood@
+ Favorites/               Recent@
+ go/                     'Saved Games'/
+ HomeWork/                Searches/
+ IntelGraphicsProfiles/   SendTo@
+ Links/                   Videos/
+'Local Settings'@        'главное меню'@
+ Music/                  'Мои документы'@
+ NetHood@                 Шаблоны@
+ NTUSER.DAT
+
+misha@DESKTOP-E02FQHM MINGW64 ~ (master)
+$ cd OneDrive/
+
+misha@DESKTOP-E02FQHM MINGW64 ~/OneDrive (master)
+$ ls
+ desktop.ini        Документ.docx   Изображения/       'Начало работы с OneDrive.pdf'
+'Документ 1.docx'   Документы/     'Личный сейф.lnk'*  'Рабочий стол'/
+
+misha@DESKTOP-E02FQHM MINGW64 ~/OneDrive (master)
+$ cd "Рабочий стол"/
+
+misha@DESKTOP-E02FQHM MINGW64 ~/OneDrive/Рабочий стол (master)
+$ ls
+ desktop.ini    go-lessons/   main.go                Telegram.lnk*              Yandex.lnk*  'Новая папка'/
+ Discord.lnk*   HomeWork/    'Microsoft Edge.lnk'*  'Visual Studio Code.lnk'*   ДЗ/           ФИО.docx
+
+misha@DESKTOP-E02FQHM MINGW64 ~/OneDrive/Рабочий стол (master)
+$ cd go-lessons/
+
+misha@DESKTOP-E02FQHM MINGW64 ~/OneDrive/Рабочий стол/go-lessons (master)
+$ ls
+lesson1/
+
+misha@DESKTOP-E02FQHM MINGW64 ~/OneDrive/Рабочий стол/go-lessons (master)
+$ cd lesson1/
+
+misha@DESKTOP-E02FQHM MINGW64 ~/OneDrive/Рабочий стол/go-lessons/lesson1 (main)
+$ ls
+go  homework3/  lesson2Git/  main.go  MyPreviousHomework/
+
+misha@DESKTOP-E02FQHM MINGW64 ~/OneDrive/Рабочий стол/go-lessons/lesson1 (main)
+$ cd homework3/
+
+misha@DESKTOP-E02FQHM MINGW64 ~/OneDrive/Рабочий стол/go-lessons/lesson1/homework3 (main)
+$ ls
+A/
+
+misha@DESKTOP-E02FQHM MINGW64 ~/OneDrive/Рабочий стол/go-lessons/lesson1/homework3 (main)
+$ cd A/
+
+misha@DESKTOP-E02FQHM MINGW64 ~/OneDrive/Рабочий стол/go-lessons/lesson1/homework3/A (main)
+$ ls
+B/  C/  D/
+
+misha@DESKTOP-E02FQHM MINGW64 ~/OneDrive/Рабочий стол/go-lessons/lesson1/homework3/A (main)
+$ cd C/
+
+misha@DESKTOP-E02FQHM MINGW64 ~/OneDrive/Рабочий стол/go-lessons/lesson1/homework3/A/C (main)
+$ ls
+C1/
+
+misha@DESKTOP-E02FQHM MINGW64 ~/OneDrive/Рабочий стол/go-lessons/lesson1/homework3/A/C (main)
+$ cd C1/
+
+misha@DESKTOP-E02FQHM MINGW64 ~/OneDrive/Рабочий стол/go-lessons/lesson1/homework3/A/C/C1 (main)
+$ cd C2/
+
+misha@DESKTOP-E02FQHM MINGW64 ~/OneDrive/Рабочий стол/go-lessons/lesson1/homework3/A/C/C1/C2 (main)
+$ ls
+C3/  file2.txt
+
+misha@DESKTOP-E02FQHM MINGW64 ~/OneDrive/Рабочий стол/go-lessons/lesson1/homework3/A/C/C1/C2 (main)
+$ cd C3/
+
+misha@DESKTOP-E02FQHM MINGW64 ~/OneDrive/Рабочий стол/go-lessons/lesson1/homework3/A/C/C1/C2/C3 (main)
+$ ls
+file3.txt
+
+misha@DESKTOP-E02FQHM MINGW64 ~/OneDrive/Рабочий стол/go-lessons/lesson1/homework3/A/C/C1/C2/C3 (main)
+$ cp file3.txt ~/OneDrive/Рабочий стол/go-lessons/lesson1/homework3/A/C/C1
+cp: target 'стол/go-lessons/lesson1/homework3/A/C/C1' is not a directory
+
+misha@DESKTOP-E02FQHM MINGW64 ~/OneDrive/Рабочий стол/go-lessons/lesson1/homework3/A/C/C1/C2/C3 (main)
+$ cp file3.txt C:\Users\misha\OneDrive\Рабочий стол\go-lessons\lesson1\homework3\A\C\C1
+cp: target 'столgo-lessonslesson1homework3ACC1' is not a directory
+
+misha@DESKTOP-E02FQHM MINGW64 ~/OneDrive/Рабочий стол/go-lessons/lesson1/homework3/A/C/C1/C2/C3 (main)
+$ ды
+bash: ды: command not found
+
+misha@DESKTOP-E02FQHM MINGW64 ~/OneDrive/Рабочий стол/go-lessons/lesson1/homework3/A/C/C1/C2/C3 (main)
+$ ls
+file3.txt
+
+misha@DESKTOP-E02FQHM MINGW64 ~/OneDrive/Рабочий стол/go-lessons/lesson1/homework3/A/C/C1/C2/C3 (main)
+$ cp file3.txt C:/Users/misha/OneDrive/Рабочий стол/go-lessons/lesson1/homework3/A/C/C1
+cp: target 'стол/go-lessons/lesson1/homework3/A/C/C1' is not a directory
+
+misha@DESKTOP-E02FQHM MINGW64 ~/OneDrive/Рабочий стол/go-lessons/lesson1/homework3/A/C/C1/C2/C3 (main)
+$ cp file3.txt C:/Users/misha/OneDrive/Рабочий стол/go-lessons/lesson1/homework3/A
+cp: target 'стол/go-lessons/lesson1/homework3/A' is not a directory
+
+misha@DESKTOP-E02FQHM MINGW64 ~/OneDrive/Рабочий стол/go-lessons/lesson1/homework3/A/C/C1/C2/C3 (main)
+$ cp file3.txt ~/OneDrive/Рабочий стол/go-lessons/lesson1/homework3/A
+cp: target 'стол/go-lessons/lesson1/homework3/A' is not a directory
+
+misha@DESKTOP-E02FQHM MINGW64 ~/OneDrive/Рабочий стол/go-lessons/lesson1/homework3/A/C/C1/C2/C3 (main)
+$ cp file3.txt C:/Users/misha/OneDrive"Рабочий стол"/go-lessons/lesson1/homework3/A/C/C1
+cp: cannot create regular file 'C:/Users/misha/OneDriveРабочий стол/go-lessons/lesson1/homework3/A/C/C1': No such file or directory
+
+misha@DESKTOP-E02FQHM MINGW64 ~/OneDrive/Рабочий стол/go-lessons/lesson1/homework3/A/C/C1/C2/C3 (main)
+$ cp file3.txt C:/Users/misha/OneDrive/"Рабочий стол"/go-lessons/lesson1/homework3/A/C/C1
+
+misha@DESKTOP-E02FQHM MINGW64 ~/OneDrive/Рабочий стол/go-lessons/lesson1/homework3/A/C/C1/C2/C3 (main)
+$ cd ..
+
+misha@DESKTOP-E02FQHM MINGW64 ~/OneDrive/Рабочий стол/go-lessons/lesson1/homework3/A/C/C1/C2 (main)
+$ ls
+C3/  file2.txt
+
+misha@DESKTOP-E02FQHM MINGW64 ~/OneDrive/Рабочий стол/go-lessons/lesson1/homework3/A/C/C1/C2 (main)
+$ cp file2.txt C:/Users/misha/OneDrive/"Рабочий стол"/go-lessons/lesson1/homework3/A/B
+
+misha@DESKTOP-E02FQHM MINGW64 ~/OneDrive/Рабочий стол/go-lessons/lesson1/homework3/A/C/C1/C2 (main)
+$ cp C1/C2/C3 C:/Users/misha/OneDrive/"Рабочий стол"/go-lessons/lesson1/homework3/A/D
+cp: cannot stat 'C1/C2/C3': No such file or directory
+
+misha@DESKTOP-E02FQHM MINGW64 ~/OneDrive/Рабочий стол/go-lessons/lesson1/homework3/A/C/C1/C2 (main)
+$ cd ..
+
+misha@DESKTOP-E02FQHM MINGW64 ~/OneDrive/Рабочий стол/go-lessons/lesson1/homework3/A/C/C1 (main)
+$ cd ..
+
+misha@DESKTOP-E02FQHM MINGW64 ~/OneDrive/Рабочий стол/go-lessons/lesson1/homework3/A/C (main)
+$ ls
+C1/
+
+misha@DESKTOP-E02FQHM MINGW64 ~/OneDrive/Рабочий стол/go-lessons/lesson1/homework3/A/C (main)
+$ cp C1 C:/Users/misha/OneDrive/"Рабочий стол"/go-lessons/lesson1/homework3/A/D
+cp: -r not specified; omitting directory 'C1'
+
+misha@DESKTOP-E02FQHM MINGW64 ~/OneDrive/Рабочий стол/go-lessons/lesson1/homework3/A/C (main)
+$ cp C1/ C:/Users/misha/OneDrive/"Рабочий стол"/go-lessons/lesson1/homework3/A/D
+cp: -r not specified; omitting directory 'C1/'
+
+misha@DESKTOP-E02FQHM MINGW64 ~/OneDrive/Рабочий стол/go-lessons/lesson1/homework3/A/C (main)
+$ cp -r C1 C:/Users/misha/OneDrive/"Рабочий стол"/go-lessons/lesson1/homework3/A/D
+
+misha@DESKTOP-E02FQHM MINGW64 ~/OneDrive/Рабочий стол/go-lessons/lesson1/homework3/A/C (main)
+$ ls
+C1/
+
+misha@DESKTOP-E02FQHM MINGW64 ~/OneDrive/Рабочий стол/go-lessons/lesson1/homework3/A/C (main)
+$ cd ..
+
+misha@DESKTOP-E02FQHM MINGW64 ~/OneDrive/Рабочий стол/go-lessons/lesson1/homework3/A (main)
+$ ls
+B/  C/  D/
+
+misha@DESKTOP-E02FQHM MINGW64 ~/OneDrive/Рабочий стол/go-lessons/lesson1/homework3/A (main)
+$ cd B/
+
+misha@DESKTOP-E02FQHM MINGW64 ~/OneDrive/Рабочий стол/go-lessons/lesson1/homework3/A/B (main)
+$ mkdir complete
+
+misha@DESKTOP-E02FQHM MINGW64 ~/OneDrive/Рабочий стол/go-lessons/lesson1/homework3/A/B (main)
+$ ls
+complete/  file2.txt
+
+misha@DESKTOP-E02FQHM MINGW64 ~/OneDrive/Рабочий стол/go-lessons/lesson1/homework3/A/B (main)
+$ cd complete/
+
+misha@DESKTOP-E02FQHM MINGW64 ~/OneDrive/Рабочий стол/go-lessons/lesson1/homework3/A/B/complete (main)
+$ mkdir complete.txt
+
+misha@DESKTOP-E02FQHM MINGW64 ~/OneDrive/Рабочий стол/go-lessons/lesson1/homework3/A/B/complete (main)
+$ ls
+complete.txt/
+
+misha@DESKTOP-E02FQHM MINGW64 ~/OneDrive/Рабочий стол/go-lessons/lesson1/homework3/A/B/complete (main)
+$ git reset
+
+misha@DESKTOP-E02FQHM MINGW64 ~/OneDrive/Рабочий стол/go-lessons/lesson1/homework3/A/B/complete (main)
+$ ls
+complete.txt/
+
+misha@DESKTOP-E02FQHM MINGW64 ~/OneDrive/Рабочий стол/go-lessons/lesson1/homework3/A/B/complete (main)
+$ git reset
+
+misha@DESKTOP-E02FQHM MINGW64 ~/OneDrive/Рабочий стол/go-lessons/lesson1/homework3/A/B/complete (main)
+$ git reset
+
+misha@DESKTOP-E02FQHM MINGW64 ~/OneDrive/Рабочий стол/go-lessons/lesson1/homework3/A/B/complete (main)
+$ ls
+complete.txt/
+
+misha@DESKTOP-E02FQHM MINGW64 ~/OneDrive/Рабочий стол/go-lessons/lesson1/homework3/A/B/complete (main)
+$ delet complete.txt/
+bash: delet: command not found
+
+misha@DESKTOP-E02FQHM MINGW64 ~/OneDrive/Рабочий стол/go-lessons/lesson1/homework3/A/B/complete (main)
+$ ls
+
+misha@DESKTOP-E02FQHM MINGW64 ~/OneDrive/Рабочий стол/go-lessons/lesson1/homework3/A/B/complete (main)
+$ nano complete.txt
+
+misha@DESKTOP-E02FQHM MINGW64 ~/OneDrive/Рабочий стол/go-lessons/lesson1/homework3/A/B/complete (main)
+$
